@@ -29,8 +29,9 @@
 
 Here’s a walkthrough video of the **Book Buddy** app in action:
 
-<iframe src="https://drive.google.com/file/d/1DqGEeAzYlyV9Y_5xRMpKF-t0B44fbkPf/preview" width="640" height="360" allow="autoplay"></iframe>  
-<!-- Replace the link above with your actual demo video URL -->
+[![Watch Demo](https://github.com/ashhad25/book-buddy-app/blob/main/video_thumbnail.PNG)](https://drive.google.com/file/d/1DqGEeAzYlyV9Y_5xRMpKF-t0B44fbkPf/view?usp=sharing)
+
+<!-- Replace the thumbnail URL with a relevant image or screenshot from your video -->
 
 ## 🧱 Architecture 
 
