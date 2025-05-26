@@ -5,7 +5,7 @@
 <h1 align="center">📚 Book Buddy</h1>
 
 <p align="center">
-  <i>Your friendly companion to manage books with style.</i><br>
+  <i>Your friendly companion to view & favorite books with style.</i><br>
   <b>Built with Flutter • GetX • MVVM Architecture</b>
 </p>
 
@@ -15,48 +15,36 @@
   <img src="https://img.shields.io/badge/MVVM-Clean%20Architecture-brightgreen?style=for-the-badge" />
 </p>
 
----
-
 ## 🚀 Features
 
 - 🔐 **User Authentication** (Login/Register)
 - 👤 **User Profile Management**
-- 📚 **Add, View, and Manage Books**
+- 📚 **View & Search Books**
 - ❤️ **Favorites Section**
-- 🛒 **Cart Management**
 - 🌐 **Network Connectivity Handling**
 - 🧠 **Built with MVVM using GetX Controller**
 - 📱 **Responsive UI for Android & iOS**
-- 🧪 **Tested & Production-ready App**
-
----
 
 ## 🎥 Demo
 
 Here’s a walkthrough video of the **Book Buddy** app in action:
 
-📽️ [Watch Demo](https://www.youtube.com/watch?v=your-demo-link)  
+<iframe src="https://drive.google.com/file/d/1DqGEeAzYlyV9Y_5xRMpKF-t0B44fbkPf/preview" width="640" height="360" allow="autoplay"></iframe>  
 <!-- Replace the link above with your actual demo video URL -->
 
----
-
-## 🧱 Architecture
+## 🧱 Architecture 
 
 Book Buddy follows the **MVVM** (Model-View-ViewModel) architecture pattern using **GetX** for state management and routing.
 
-lib/
-├── models/ # Data models
-├── resources/ # Routes and constants
-├── utils/ # Utilities (snackbars, validators, etc.)
-├── view_models/ # GetX ViewModels (controllers)
-├── views/ # UI Screens
+```
+lib/ 
+├── models/ # Data models 
+├── resources/ # Routes and constants 
+├── utils/ # Utilities (snackbars, validators, etc.) 
+├── view_models/ # GetX ViewModels (controllers) 
+├── views/ # UI Screens 
 └── main.dart # App entry point
-
-yaml
-Copy
-Edit
-
----
+```
 
 ## 🛠️ Tech Stack
 
@@ -65,8 +53,6 @@ Edit
 - **GetX** – State management, routing, and DI
 - **Shared Preferences** – Local persistent user data
 - **MVVM Architecture** – Clean code separation
-
----
 
 ## 🧪 Getting Started
 
@@ -84,20 +70,23 @@ flutter pub get
 flutter run
 📌 Ensure you have Flutter SDK 3.22+ installed.
 
-💡 What I Learned
-Implemented MVVM architecture using GetX effectively
+```
 
-Managed state and navigation using GetX
+## 💡 What I Learned
 
-Built responsive and clean UIs with Flutter
+* ✅ Implemented MVVM architecture using GetX effectively
 
-Used SharedPreferences for login persistence
+* 🔁 Managed state and navigation using GetX
 
-Developed and tested a complete Flutter app from scratch
+* 🎨 Built responsive and clean UIs with Flutter
 
-🙌 Author
-Ashhad Ahmed
+* 💾 Used SharedPreferences for login persistence
 
-🔗 Connect on LinkedIn
+* 🧪 Developed and tested a complete Flutter app from scratch
 
-📧 Email: your-email@example.com
+
+## 🙌 Author  
+**Ashhad Ahmed**
+
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/ashhad-ahmed-7a4a35259/)  
+- 📧 Email: [ashhadahmed72@gmail.com](mailto:ashhadahmed72@gmail.com)
